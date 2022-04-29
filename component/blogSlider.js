@@ -13,7 +13,7 @@ function BlogSlider() {
         infinite: true,
         slidesToScroll: 1,
         autoplay: true,
-        speed:5000,
+        speed:2000,
 		responsive: [
 			{
 			  breakpoint: 1024,

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image'
 
 function Footer2() {
   return (
@@ -33,7 +34,7 @@ function Footer2() {
 					<div className="col-xl-3 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="widget widget_about">
 							<div className="footer-logo">
-								<a href="/"><img src="images/logo-white.png" alt=""/></a> 
+								<a href="/"><Image width={80} height={80} src="/images/cropped-Omra_Branding_logo.png" alt=""/></a> 
 							</div>
 							<div className="widget widget_getintuch">
 								<ul>

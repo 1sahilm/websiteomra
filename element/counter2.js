@@ -4,8 +4,10 @@ function Counter2() {
       <>
         {/* <!-- Counters 2 --> */}
 		<section className="counter-wraper-2 overlay-gradient-dark"> 
+		
 			<div className="counter-inner content-inner-3" style={{"backgroundImage":"url(images/background/bg14.png)","backgroundPosition":"center","backgroundRepeat":"no-repeat"}}>
 				<div className="container">
+				<h2 className="text-center">GET STARTED WITH SMART IT SOLUTIONS TODAY</h2>
 					<div className="row">
 						<div className="col-lg-3 col-sm-6 m-b30">
 							<div className="dlab-content-bx style-3 text-center">

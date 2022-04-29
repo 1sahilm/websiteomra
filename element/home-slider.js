@@ -7,7 +7,7 @@ function HomeSlider(){
 <div>
 <Carousel>
                   <div className="slider-image">
-                      <div className="bg"><Image src="/images/background/ideathon-homepage-banner-1.jpg" alt="image1" width={1200} height={500}/></div>
+                      <div className="bg"><Image src="/images/sliderimages/4.jpg" alt="image1" width={1200} height={500}/></div>
                       <div className="container text">
                      <div className="row">
                          <div className="col-md-6">
@@ -24,7 +24,7 @@ function HomeSlider(){
   
                   </div>
                   <div className="slider-image">
-                      <div className="bg"><Image src="/images/background/ideathon-homepage-banner-1.jpg" alt="image1" width={1200} height={500}/></div>
+                      <div className="bg"><Image src="/images/sliderimages/3.jpg" alt="image1" width={1200} height={500}/></div>
                       <div className="container text">
                      <div className="row">
                          <div className="col-md-6">
@@ -41,7 +41,7 @@ function HomeSlider(){
   
                   </div>
                   <div className="slider-image">
-                      <div className="bg"><Image src="/images/background/ideathon-homepage-banner-1.jpg" alt="image1" width={1200} height={500}/></div>
+                      <div className="bg"><Image src="/images/sliderimages/1.jpg" alt="image1" width={1200} height={500}/></div>
                       <div className="container text">
                      <div className="row">
                          <div className="col-md-6">
@@ -58,7 +58,7 @@ function HomeSlider(){
   
                   </div>
                   <div className="slider-image">
-                      <div className="bg"><Image src="/images/background/ideathon-homepage-banner-1.jpg" alt="image1" width={1200} height={500}/></div>
+                      <div className="bg"><Image src="/images/sliderimages/2.jpg" alt="image1" width={1200} height={500}/></div>
                       <div className="container text">
                      <div className="row">
                          <div className="col-md-6">
